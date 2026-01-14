@@ -2,7 +2,7 @@
 
 A nice looking and expandable static site to showcase all my important links. Vinculum means "bond," "tie," "chain," or "fetter" in latin
 
-## HAdding more links
+## Adding more links
 
 Edit `config.js` and add a new object to the `links` array:
 
