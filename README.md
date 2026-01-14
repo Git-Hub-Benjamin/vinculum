@@ -1,8 +1,8 @@
 # Vinculum - My Personal Linktree
 
-A nice looking and expandable static site to showcase all my important links
+A nice looking and expandable static site to showcase all my important links. Vinculum means "bond," "tie," "chain," or "fetter" in latin
 
-## How to Add More Links
+## HAdding more links
 
 Edit `config.js` and add a new object to the `links` array:
 
@@ -16,9 +16,3 @@ Edit `config.js` and add a new object to the `links` array:
     color: "#hexcolor"
 }
 ```
-
-## Customization
-
-- **Profile Name**: Edit `config.js` → Set the name in the HTML
-- **Background**: Modify the gradient in `styles.css` → `body` selector
-- **Colors**: Update link colors in the `config.js` color properties
